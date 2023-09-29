@@ -9,7 +9,7 @@ Of course I thought Cleveland needs one of these as well, or at least someone sh
 
 I don't drink that much beer though, and didn't make much progress outside of the near west side and what I could easily find on online menus back last December. There's many blanks and ???s, so please help out if that's your cup of tea!
 ### Cleveland's RTA rapid rail map
-![Cleveland's RTA rapid rail map](https://rta-hackathon.s3.amazonaws.com/GCRTA-beer-map-2023.png)
+![Cleveland's RTA rapid rail map](https://raw.githubusercontent.com/trivisonno/cle-cheapest-rapid-draft-pints/52e4ecab08b32365654e53523ca729a033564a25/GCRTA-beer-map-2023.png)
 
 # Collaborate with us!
 Send us info that we're missing, like what is the closest bar or pub near a transit stop, and what is the cheapest 16oz pint on tap? We'll update the map as new data gets sent!

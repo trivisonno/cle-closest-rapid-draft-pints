@@ -123,9 +123,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.96"
-     inkscape:cx="1529.6875"
-     inkscape:cy="1673.9583"
+     inkscape:zoom="1.6403184"
+     inkscape:cx="5060.9075"
+     inkscape:cy="1575.3039"
      inkscape:window-width="1366"
      inkscape:window-height="642"
      inkscape:window-x="0"
@@ -135,7 +135,15 @@
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g54">
+     id="g54"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#3c46e3;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect1209"
+       width="6186.3579"
+       height="2904.762"
+       x="-39.25354"
+       y="-23.552124" />
     <g
        id="g18223"
        style="display:inline">
@@ -150,133 +158,129 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="188"
-       y="2378"
+       x="274"
+       y="2464"
        id="text7386"><tspan
          sodipodi:role="line"
          id="tspan7384"
-         x="188"
-         y="2378">Airport</tspan><tspan
+         x="274"
+         y="2464">Airport</tspan><tspan
          sodipodi:role="line"
-         x="188"
-         y="2405.7334"
+         x="274"
+         y="2491.7334"
          id="tspan7854"
          style="font-size:24px">the Pub</tspan><tspan
          sodipodi:role="line"
-         x="188"
-         y="2433.4668"
+         x="274"
+         y="2519.4668"
          id="tspan7856"
          style="font-size:24px">???</tspan><tspan
          sodipodi:role="line"
-         x="188"
-         y="2461.2002"
+         x="274"
+         y="2547.2002"
          id="tspan7858"
-         style="font-size:24px">$0.00</tspan></text>
-    <g
-       id="g4633"
-       inkscape:label="redline"
-       transform="translate(2,-6)">
-      <path
-         style="fill:none;stroke:#c0322b;stroke-width:38.4;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="M 92.357724,2366.6667 1041.9106,1417.1138 h 608.9837 l 246.7683,-246.7683 419.939,419.9391 L 3829.9593,77.926829"
-         id="path293" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="path4033"
-         cx="1352.412"
-         cy="1418.3894"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4607"
-         cx="1645.8723"
-         cy="1418.3894"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4609"
-         cx="1043.5695"
-         cy="1418.3894"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4611"
-         cx="896.58643"
-         cy="1561.3724"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4613"
-         cx="736.22137"
-         cy="1723.6813"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4615"
-         cx="575.85632"
-         cy="1883.0745"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4617"
-         cx="421.32272"
-         cy="2036.6361"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4619"
-         cx="267.76105"
-         cy="2191.1697"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4621"
-         cx="95.733086"
-         cy="2362.2256"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle15790"
-         cx="2742.4631"
-         cy="1164.9803"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle15792"
-         cx="2959.5085"
-         cy="946.79852"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle15794"
-         cx="3184.5085"
-         cy="722.93488"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle15796"
-         cx="3390.1904"
-         cy="516.1167"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle15798"
-         cx="3608.3723"
-         cy="297.93488"
-         r="30.615145" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="circle15800"
-         cx="3823.145"
-         cy="80.88942"
-         r="30.615145" />
-    </g>
+         style="font-size:24px">$-.--</tspan></text>
+    <path
+       style="fill:none;stroke:#c0322b;stroke-width:38.4;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 180.35772,2452.6667 949.55288,-949.5529 h 608.9837 l 246.7683,-246.7683 331.939,327.9391 L 3829.9593,71.926829"
+       id="path293"
+       sodipodi:nodetypes="cccccc" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path4033"
+       cx="1440.412"
+       cy="1498.3894"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4607"
+       cx="1733.8723"
+       cy="1498.3894"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4609"
+       cx="1131.5695"
+       cy="1498.3894"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4611"
+       cx="984.58643"
+       cy="1641.3724"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4613"
+       cx="824.22137"
+       cy="1803.6813"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4615"
+       cx="663.85632"
+       cy="1963.0745"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4617"
+       cx="509.32272"
+       cy="2116.6362"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4619"
+       cx="355.76105"
+       cy="2271.1697"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4621"
+       cx="183.73309"
+       cy="2442.2256"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle15790"
+       cx="2744.4631"
+       cy="1158.9803"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle15792"
+       cx="2961.5085"
+       cy="940.79852"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle15794"
+       cx="3186.5085"
+       cy="716.93488"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle15796"
+       cx="3392.1904"
+       cy="510.1167"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle15798"
+       cx="3610.3723"
+       cy="291.93488"
+       r="30.615145" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle15800"
+       cx="3825.145"
+       cy="74.88942"
+       r="30.615145" />
     <g
        id="g5769"
        inkscape:label="blueline">
       <path
          style="fill:none;fill-opacity:1;stroke:#3f4caf;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="m 2028.1252,1207.8062 486.4202,486.4203 h 898.6409 l 894.5186,882.152 1240.7839,0"
+         d="m 2028.1252,1207.8062 486.4202,486.4203 h 898.6409 l 894.5186,882.152 h 1240.7839"
          id="path4689" />
       <circle
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -430,183 +434,183 @@
        x="379"
        y="2184"
        id="text7902"
-       transform="translate(-27.272727,23.863636)"><tspan
+       transform="translate(58.727273,109.86364)"><tspan
          x="379"
          y="2184"
-         id="tspan5738">Brookpark</tspan></text>
+         id="tspan1392">Brookpark</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="512.36365"
-       y="2050.3635"
+       x="598.36365"
+       y="2136.3635"
        id="text7906"><tspan
          sodipodi:role="line"
          id="tspan7904"
-         x="512.36365"
-         y="2050.3635">Puritas</tspan><tspan
+         x="598.36365"
+         y="2136.3635">Puritas</tspan><tspan
          sodipodi:role="line"
-         x="512.36365"
-         y="2078.0969"
+         x="598.36365"
+         y="2164.0969"
          id="tspan7908"
          style="font-size:24px">Cozumel</tspan><tspan
          sodipodi:role="line"
-         x="512.36365"
-         y="2105.8303"
+         x="598.36365"
+         y="2191.8303"
          id="tspan7910"
          style="font-size:24px">Bud Light</tspan><tspan
          sodipodi:role="line"
-         x="512.36365"
-         y="2133.5637"
+         x="598.36365"
+         y="2219.5637"
          id="tspan7912"
          style="font-size:24px">$4.00</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="658.68182"
-       y="1898.5909"
+       x="744.68182"
+       y="1984.5909"
        id="text7916"><tspan
          sodipodi:role="line"
          id="tspan7914"
-         x="658.68182"
-         y="1898.5909">West Park</tspan><tspan
+         x="744.68182"
+         y="1984.5909">West Park</tspan><tspan
          sodipodi:role="line"
-         x="658.68182"
-         y="1926.3243"
+         x="744.68182"
+         y="2012.3243"
          id="tspan7918"
          style="font-size:24px">Little Rose Tavern</tspan><tspan
          sodipodi:role="line"
-         x="658.68182"
-         y="1954.0576"
+         x="744.68182"
+         y="2040.0576"
          id="tspan7920"
          style="font-size:24px">Labatt Blue</tspan><tspan
          sodipodi:role="line"
-         x="658.68182"
-         y="1981.791"
+         x="744.68182"
+         y="2067.791"
          id="tspan7922"
          style="font-size:24px">$3.00</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="828.18182"
-       y="1739.8636"
+       x="914.18182"
+       y="1825.8636"
        id="text7926"><tspan
          sodipodi:role="line"
          id="tspan7924"
-         x="828.18182"
-         y="1739.8636">Triskett</tspan><tspan
+         x="914.18182"
+         y="1825.8636">Triskett</tspan><tspan
          sodipodi:role="line"
-         x="828.18182"
-         y="1767.597"
+         x="914.18182"
+         y="1853.597"
          id="tspan7928"
          style="font-size:24px">Kelley's Pub</tspan><tspan
          sodipodi:role="line"
-         x="828.18182"
-         y="1795.3303"
+         x="914.18182"
+         y="1881.3303"
          id="tspan8210"
          style="font-size:24px">???</tspan><tspan
          sodipodi:role="line"
-         x="828.18182"
-         y="1823.0637"
+         x="914.18182"
+         y="1909.0637"
          id="tspan7930"
-         style="font-size:24px">$0.00</tspan></text>
+         style="font-size:24px">$-.--</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="978.22729"
-       y="1581.6818"
+       x="1064.2273"
+       y="1667.6818"
        id="text7934"><tspan
          sodipodi:role="line"
          id="tspan7932"
-         x="978.22729"
-         y="1581.6818">W. 117th-Madison</tspan><tspan
+         x="1064.2273"
+         y="1667.6818">W. 117th-Madison</tspan><tspan
          sodipodi:role="line"
-         x="978.22729"
-         y="1609.4152"
+         x="1064.2273"
+         y="1695.4152"
          id="tspan7936"
          style="font-size:24px">Funhouse</tspan><tspan
          sodipodi:role="line"
-         x="978.22729"
-         y="1637.1484"
+         x="1064.2273"
+         y="1723.1484"
          id="tspan7938"
          style="font-size:24px">???</tspan><tspan
          sodipodi:role="line"
-         x="978.22729"
-         y="1664.8818"
+         x="1064.2273"
+         y="1750.8818"
          id="tspan7940"
-         style="font-size:24px">$0.00</tspan></text>
+         style="font-size:24px">$-.--</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="917"
-       y="1294"
+       x="1003"
+       y="1380"
        id="text7944"><tspan
          sodipodi:role="line"
          id="tspan7942"
-         x="917"
-         y="1294">W. Blvd.-Cudell</tspan><tspan
+         x="1003"
+         y="1380">W. Blvd.-Cudell</tspan><tspan
          sodipodi:role="line"
-         x="917"
-         y="1321.7334"
+         x="1003"
+         y="1407.7334"
          id="tspan7946"
          style="font-size:24px">Cocktails</tspan><tspan
          sodipodi:role="line"
-         x="917"
-         y="1349.4667"
+         x="1003"
+         y="1435.4667"
          id="tspan7948"
          style="font-size:24px">???</tspan><tspan
          sodipodi:role="line"
-         x="917"
-         y="1377.2001"
+         x="1003"
+         y="1463.2001"
          id="tspan7950"
-         style="font-size:24px">$0.00</tspan></text>
+         style="font-size:24px">$-.--</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="1224"
-       y="1293.688"
+       x="1310"
+       y="1379.688"
        id="text7954"><tspan
          sodipodi:role="line"
          id="tspan7952"
-         x="1224"
-         y="1293.688">W. 65th-Lorain</tspan><tspan
+         x="1310"
+         y="1379.688">W. 65th-Lorain</tspan><tspan
          sodipodi:role="line"
-         x="1224"
-         y="1321.4214"
+         x="1310"
+         y="1407.4214"
          id="tspan7956"
          style="font-size:24px">Forest City Shuffleboard</tspan><tspan
          sodipodi:role="line"
-         x="1224"
-         y="1349.1547"
+         x="1310"
+         y="1435.1547"
          id="tspan7958"
          style="font-size:24px">Miller Lite</tspan><tspan
          sodipodi:role="line"
-         x="1224"
-         y="1376.8881"
+         x="1310"
+         y="1462.8881"
          id="tspan7960"
          style="font-size:24px">$4.00</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="1518"
-       y="1526"
+       x="1604"
+       y="1590"
        id="text7964"><tspan
          sodipodi:role="line"
          id="tspan7962"
-         x="1518"
-         y="1526">W. 25th-Ohio City</tspan><tspan
+         x="1604"
+         y="1590">W. 25th-Ohio City</tspan><tspan
          sodipodi:role="line"
-         x="1518"
-         y="1553.7334"
+         x="1604"
+         y="1617.7334"
          id="tspan7966"
          style="font-size:24px">Pioneer</tspan><tspan
          sodipodi:role="line"
-         x="1518"
-         y="1581.4667"
+         x="1604"
+         y="1645.4667"
          id="tspan7968"
          style="font-size:24px">Pioneer X Sibling Revelry Lager</tspan><tspan
          sodipodi:role="line"
-         x="1518"
-         y="1609.2001"
+         x="1604"
+         y="1673.2001"
          id="tspan7970"
          style="font-size:24px">$5.00</tspan></text>
     <text
@@ -623,12 +627,12 @@
          x="2157"
          y="1127.7334"
          id="tspan7976"
-         style="font-size:24px">Flannery's Pub</tspan><tspan
+         style="font-size:24px">Wahlbergers</tspan><tspan
          sodipodi:role="line"
          x="2157"
          y="1155.4667"
          id="tspan7978"
-         style="font-size:24px">Michelob Ultra/Miller Lite</tspan><tspan
+         style="font-size:24px">Bud Light/Miller Lite</tspan><tspan
          sodipodi:role="line"
          x="2157"
          y="1183.2001"
@@ -702,7 +706,7 @@
          x="3267"
          y="817.20007"
          id="tspan8008"
-         style="font-size:24px">$0.00</tspan></text>
+         style="font-size:24px">$-.--</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -772,7 +776,7 @@
          x="1530.3182"
          y="1120.4728"
          id="tspan8036"
-         style="font-size:24px">$0.00</tspan></text>
+         style="font-size:24px">$-.--</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -797,7 +801,7 @@
          x="1408"
          y="979.20007"
          id="tspan8046"
-         style="font-size:24px">$0.00</tspan></text>
+         style="font-size:24px">$-.--</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -822,7 +826,7 @@
          x="1901"
          y="723.20007"
          id="tspan8056"
-         style="font-size:24px">$0.00</tspan></text>
+         style="font-size:24px">$-.--</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -872,12 +876,12 @@
          x="2364.3845"
          y="182.42566"
          id="tspan8076"
-         style="font-size:24px">Winking Lizard Galleria</tspan><tspan
+         style="font-size:24px">Winking Lizard Downtown</tspan><tspan
          sodipodi:role="line"
          x="2364.3845"
          y="210.15903"
          id="tspan8078"
-         style="font-size:24px">Bud Light</tspan><tspan
+         style="font-size:24px">Bud Light/Yuengling</tspan><tspan
          sodipodi:role="line"
          x="2364.3845"
          y="237.89238"
@@ -927,7 +931,7 @@
          x="5460"
          y="2752.2002"
          id="tspan8162"
-         style="font-size:24px">$0.00</tspan></text>
+         style="font-size:24px">$-.--</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -937,7 +941,22 @@
          sodipodi:role="line"
          id="tspan8164"
          x="5235"
-         y="2669">Farnsleigh</tspan></text>
+         y="2669">Farnsleigh</tspan><tspan
+         sodipodi:role="line"
+         x="5235"
+         y="2696.7334"
+         id="tspan691"
+         style="font-size:24px">Paloma</tspan><tspan
+         sodipodi:role="line"
+         x="5235"
+         y="2724.4668"
+         id="tspan693"
+         style="font-size:24px">???</tspan><tspan
+         sodipodi:role="line"
+         x="5235"
+         y="2752.2002"
+         id="tspan695"
+         style="font-size:24px">$-.--</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -1002,7 +1021,7 @@
          x="4009"
          y="2592.2002"
          id="tspan8192"
-         style="font-size:24px">$0.00</tspan></text>
+         style="font-size:24px">$-.--</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -1090,7 +1109,7 @@
          x="3301"
          y="1560.2001"
          id="tspan8108"
-         style="font-size:24px">$0.00</tspan></text>
+         style="font-size:24px">$-.--</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -1160,7 +1179,22 @@
          sodipodi:role="line"
          id="tspan8134"
          x="4917.4409"
-         y="1477">Courtland</tspan></text>
+         y="1477">Courtland</tspan><tspan
+         sodipodi:role="line"
+         x="4917.4409"
+         y="1504.7334"
+         id="tspan676"
+         style="font-size:24px">Pizzazz</tspan><tspan
+         sodipodi:role="line"
+         x="4917.4409"
+         y="1532.4667"
+         id="tspan678"
+         style="font-size:24px">Miller Lite</tspan><tspan
+         sodipodi:role="line"
+         x="4917.4409"
+         y="1560.2001"
+         id="tspan680"
+         style="font-size:24px">$3.50</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -1174,18 +1208,18 @@
          sodipodi:role="line"
          x="5138"
          y="1504.4214"
-         id="tspan664"
-         style="font-size:24px">Paloma</tspan><tspan
+         id="tspan668"
+         style="font-size:24px">Pizzazz</tspan><tspan
          sodipodi:role="line"
          x="5138"
          y="1532.1547"
-         id="tspan666"
-         style="font-size:24px">Various</tspan><tspan
+         style="font-size:24px"
+         id="tspan689">Miller Lite</tspan><tspan
          sodipodi:role="line"
          x="5138"
          y="1559.8881"
-         id="tspan668"
-         style="font-size:24px">$7.00</tspan></text>
+         style="font-size:24px"
+         id="tspan1094">$3.50</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -1662,5 +1696,37 @@
          x="-39.859592"
          y="2655.1641"
          style="font-size:40px">Cuyahoga River</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.8;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect5797"
+       width="14.074074"
+       height="45.185184"
+       x="1968.1482"
+       y="1080" />
+    <path
+       d="m 2011.7821,1123.2599 -30.702,-53.2271 a 7.0035658,7.0035658 0 0 0 -5.7922,-4.1264 7.0035658,7.0035658 0 0 0 -5.7543,4.1264 l -30.74,53.2271 c -3.1799,5.4893 -0.5678,9.9943 5.7543,9.9943 h 61.48 c 6.3221,0 8.9343,-4.505 5.7542,-9.9943 z m -32.7085,-1.3628 h -7.5714 v -7.5715 h 7.5714 z m 0,-15.1429 h -7.5714 V 1084.04 h 7.5714 z"
+       id="path3841"
+       style="display:inline;fill:#ff5d00;stroke-width:3.78571"
+       inkscape:label="path3841" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.6667px;line-height:1;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;stroke-width:3.8;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       x="2098.3076"
+       y="905.12823"
+       id="text4362"><tspan
+         sodipodi:role="line"
+         x="2098.3076"
+         y="905.12823"
+         style="font-size:26.6667px;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="tspan4466">Waterfront Line operates only</tspan><tspan
+         sodipodi:role="line"
+         x="2098.3076"
+         y="931.79492"
+         style="font-size:26.6667px;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="tspan1454">on Browns home gamedays</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.8;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 1995,1068 43,-161 h 47"
+       id="path5854" />
   </g>
 </svg>
