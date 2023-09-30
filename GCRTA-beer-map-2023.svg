@@ -2,8 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+  style="display: inline; width: inherit; min-width: inherit; max-width: inherit; height: inherit; min-height: inherit; max-height: inherit;"
    version="1.1"
-   id="svg48"
+   id="demo-tiger"
    width="6100"
    height="2840"
    viewBox="0 0 6100 2840"
@@ -124,8 +125,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.6403184"
-     inkscape:cx="5060.9075"
-     inkscape:cy="1575.3039"
+     inkscape:cx="5138.3315"
+     inkscape:cy="1742.3446"
      inkscape:window-width="1366"
      inkscape:window-height="642"
      inkscape:window-x="0"
@@ -437,7 +438,7 @@
        transform="translate(58.727273,109.86364)"><tspan
          x="379"
          y="2184"
-         id="tspan1392">Brookpark</tspan></text>
+         id="tspan1690">Brookpark</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -527,7 +528,7 @@
          x="1064.2273"
          y="1695.4152"
          id="tspan7936"
-         style="font-size:24px">Funhouse</tspan><tspan
+         style="font-size:24px">Hacienda Tapatia</tspan><tspan
          sodipodi:role="line"
          x="1064.2273"
          y="1723.1484"
@@ -577,17 +578,17 @@
          x="1310"
          y="1407.4214"
          id="tspan7956"
-         style="font-size:24px">Forest City Shuffleboard</tspan><tspan
+         style="font-size:24px">Cent's Pizza</tspan><tspan
          sodipodi:role="line"
          x="1310"
          y="1435.1547"
          id="tspan7958"
-         style="font-size:24px">Miller Lite</tspan><tspan
+         style="font-size:24px">???</tspan><tspan
          sodipodi:role="line"
          x="1310"
          y="1462.8881"
          id="tspan7960"
-         style="font-size:24px">$4.00</tspan></text>
+         style="font-size:24px">$-.--</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:0.8;font-family:Johnston100;-inkscape-font-specification:Johnston100;fill:#000000;fill-opacity:1;stroke:none;stroke-width:48;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -1630,7 +1631,7 @@
          id="tspan16594"
          x="1100.3536"
          y="2304.7043"
-         style="font-size:113.333px;fill:#000000;fill-opacity:1">CHEAPEST DRAFT PINT ON RAPID RAIL</tspan></text>
+         style="font-size:113.333px;fill:#000000;fill-opacity:1">CLOSEST DRAFT PINT ON RAPID RAIL</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.3333px;line-height:1;font-family:Johnston100;-inkscape-font-specification:Johnston100;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
